@@ -13,3 +13,4 @@ Hope to keep this as a running repository as I continue to work on algorithms, f
 Currently included:
 
 - [1. Two Sum](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/twoSum.swift)
+- [2. Add Two Numbers](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/addTwo.swift)
