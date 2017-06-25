@@ -17,7 +17,7 @@ Source: https://leetcode.com/problems/longest-substring-without-repeating-charac
 Editor's Note: I had no idea Swift would make accessing String indeces so hard (and, when available, inefficient).
 It will be interesting to see if future releases of the language improve this and make this answer arcane.
 
-/*
+*/
 
 
 class Solution {
