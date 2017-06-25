@@ -17,4 +17,6 @@ Currently included:
 - [3. Longest Substring Without Repeating Characters\*](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/longestSubstring.swift)
 
 
-* This one feels especially dirty with the need to encode Strings as Arrays of UTF-8 bits to iterate efficiently. If anyone has ideas for handling this better, please fork it! Stack Overflow and the LeetCode forums can only help so much 😉
+
+
+\* This one feels especially dirty with the need to encode Strings as Arrays of UTF-8 bits to iterate efficiently. If anyone has ideas for handling this better, please fork it! Stack Overflow and the LeetCode forums can only help so much 😉
