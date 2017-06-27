@@ -9,7 +9,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 
+Beats 93.87% of submissions on submit - 6/22/17
+
 Source: https://leetcode.com/problems/add-two-numbers
+
 */
 
 class Solution {
