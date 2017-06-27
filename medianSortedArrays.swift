@@ -17,12 +17,14 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 
+Beats 96.81% of submissions on submit - 6/25/17
+
 Source: https://leetcode.com/problems/median-of-two-sorted-arrays
 
 Editor's Note: Again, surprised at the inefficiencies of Swift. Having all instances of n1size
 and n2size in the below file as their original Array.count variant was enough for LeetCode to 
 fail with Time Limit Exceeded, but with the substitutions it passed beating 96% of Swift solutions.
-It definitely proves to be an interesting challenge to work aroud.
+It proves to be an interesting challenge to work aroud.
 
 */
 
