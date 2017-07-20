@@ -17,6 +17,7 @@ Currently included:
 - [2. Add Two Numbers](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/addTwo.swift)
 - [3. Longest Substring Without Repeating Characters\*](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/longestSubstring.swift)
 - [4. Median of Two Sorted Arrays](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/medianSortedArrays.swift)
+- [206. Reverse Linked List](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/reverseLinkedList.swift)
 - [617. Merge Two Binary Trees](https://github.com/StevenSawtelle/LeetCode-Swift-Solutions/blob/master/mergeBinaryTrees.swift)
 
 
